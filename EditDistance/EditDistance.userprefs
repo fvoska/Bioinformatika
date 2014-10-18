@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EditDistance/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EditDistance/EditDistance.cs">
     <Files>
-      <File FileName="EditDistance/Program.cs" Line="130" Column="14" />
+      <File FileName="EditDistance/Program.cs" Line="46" Column="4" />
+      <File FileName="EditDistance/EditDistance.cs" Line="14" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
